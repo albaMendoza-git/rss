@@ -72,3 +72,10 @@ a:hover {
     flex-direction: column;
     text-align: center;
 }
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 6rem;
+    text-align: center;
+    color: rgb(42, 165, 159);
+}
