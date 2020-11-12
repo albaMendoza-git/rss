@@ -2,20 +2,21 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
 
-    <title>El tiempo meteorológico de Alba</title>
+    <title>Las noticias</title>
     <updated>2020-11-12T14:41:00Z</updated>
-    <link rel="self" type="application/atom+xml" href="https://albamendoza-git.github.io/rss/tiempo.atom"/>
+    <link rel="self" type="application/atom+xml" href="https://albamendoza-git.github.io/rss/noticias.atom"/>
     <link rel="alternate" type="text/html" href="https://albamendoza-git.github.io/rss/"/>
     <id>https://albamendoza-git.github.io/rss/</id>
     <entry>
-        <title>El tiempo meteorológico de Alba</title>
+        <title>Ciencia y Salud</title>
         <updated>2020-11-12T14:41:00Z</updated>
-        <link rel="alternate" href="https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html"/>
-        <id>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</id>
+        <link rel="alternate" href="https://www.elmundo.es/ciencia-y-salud/salud/2020/11/12/5fac792021efa023288b4684.html"/>
+        <id>https://www.elmundo.es/ciencia-y-salud/salud/2020/11/12/5fac792021efa023288b4684.html</id>
         <author>
             <name>Alba María Mendoza Sánchez</name>
             <email>albamariams97@gmail.com</email>
         </author>
-        <summary>El tiempo meteorológico para Santa Cruz de tenerife</summary>
+        <summary>Coronavirus España hoy, noticias de última hora en directo | Los contagios baten un nuevo récord y Asturias suma 605 positivos en un solo día</summary>
     </entry>
+</feed>
     
