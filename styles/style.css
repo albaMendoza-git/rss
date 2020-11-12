@@ -32,3 +32,43 @@ header p {
     text-align: center;
     letter-spacing: .1rem;
 }
+
+main {
+    display: flex;
+    flex-direction: column
+}
+
+.rss {
+    display: flex;
+    flex-direction: column;
+    width: 50rem;
+    margin: 0 auto;
+}
+
+.tiempo {
+    width: 30rem;
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    color: black;
+    font-size: 5rem;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.noticias {
+    width: 30rem;
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
