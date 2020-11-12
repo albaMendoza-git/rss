@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+    <channel>
+        <title>Las noticias</title>
+        <link>https://albamendoza-git.github.io/rss/</link>
+        <description>Muestra las noticias actualizadas</description>
+        <language>es</language>
+
+        <item>
+        <title>Ciencia y Salud</title>
+        <link>https://www.elmundo.es/ciencia-y-salud/salud/2020/11/12/5fac792021efa023288b4684.html</link>
+        <guid>https://www.elmundo.es/ciencia-y-salud/salud/2020/11/12/5fac792021efa023288b4684.html</guid>
+        <description>Noticias sobre Ciencia y Salud</description>
+        </item>
+    </channel>
+</rss>
