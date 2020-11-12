@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0">
+    <channel>
+        <title>El tiempo meteorológico de Alba</title>
+        <description>Muestra el tiempo meteorológico diario que hará en Santa Cruz de Tenerife</description>
+        <language>es</language>
+
+        <item>
+        <title>El tiempo Santa Cruz de Tenerife</title>
+        <link>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</link>
+        <guid>https://www.tiempo.es/santa_cruz_de_tenerife-santa_cruz_de_tenerife-es0st0038.html</guid>
+        <description>El tiempo meteorológico para Santa Cruz de tenerife </description>
+        </item>
+    </channel>
+</rss>
